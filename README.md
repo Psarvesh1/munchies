@@ -1,3 +1,5 @@
+An online web-application made to suggest you random dishes from different restaurants near your location by using Zomato developer's api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
